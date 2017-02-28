@@ -23,5 +23,37 @@ namespace PhilsAutoStop.Controllers
         {
             return View();
         }
+        public ActionResult FastTrack()
+        {
+            return View();
+        }
+        public ActionResult FastTrackSD()
+        {
+            return View();
+        }
+        public ActionResult FastTrackSDK()
+        {
+            return View();
+        }
+        public ActionResult RaptorSD()
+        {
+            return View();
+        }
+        public ActionResult Super104()
+        {
+            return View();
+        }
+        public ActionResult SuperZHyperDrive()
+        {
+            return View();
+        }
+        public ActionResult SuperZ()
+        {
+            return View();
+        }
+        public ActionResult XOne()
+        {
+            return View();
+        }
     }
 }
